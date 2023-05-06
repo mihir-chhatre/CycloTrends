@@ -1,0 +1,301 @@
+Year,Month,Category,Value
+2018,January,Mayonnaise,254
+2018,January,Ketchup,125
+2018,January,Mustard,189
+2018,January,Soy sauce,126
+2018,January,Barbecue sauce,129
+2018,February,Mayonnaise,237
+2018,February,Ketchup,113
+2018,February,Mustard,173
+2018,February,Soy sauce,123
+2018,February,Barbecue sauce,124
+2018,March,Mayonnaise,239
+2018,March,Ketchup,126
+2018,March,Mustard,198
+2018,March,Soy sauce,116
+2018,March,Barbecue sauce,117
+2018,April,Mayonnaise,330
+2018,April,Ketchup,159
+2018,April,Mustard,227
+2018,April,Soy sauce,142
+2018,April,Barbecue sauce,165
+2018,May,Mayonnaise,279
+2018,May,Ketchup,128
+2018,May,Mustard,183
+2018,May,Soy sauce,111
+2018,May,Barbecue sauce,166
+2018,June,Mayonnaise,270
+2018,June,Ketchup,131
+2018,June,Mustard,185
+2018,June,Soy sauce,118
+2018,June,Barbecue sauce,161
+2018,July,Mayonnaise,361
+2018,July,Ketchup,162
+2018,July,Mustard,232
+2018,July,Soy sauce,154
+2018,July,Barbecue sauce,211
+2018,August,Mayonnaise,267
+2018,August,Ketchup,121
+2018,August,Mustard,176
+2018,August,Soy sauce,118
+2018,August,Barbecue sauce,140
+2018,September,Mayonnaise,289
+2018,September,Ketchup,152
+2018,September,Mustard,213
+2018,September,Soy sauce,140
+2018,September,Barbecue sauce,157
+2018,October,Mayonnaise,207
+2018,October,Ketchup,120
+2018,October,Mustard,170
+2018,October,Soy sauce,112
+2018,October,Barbecue sauce,108
+2018,November,Mayonnaise,221
+2018,November,Ketchup,121
+2018,November,Mustard,194
+2018,November,Soy sauce,111
+2018,November,Barbecue sauce,105
+2018,December,Mayonnaise,291
+2018,December,Ketchup,153
+2018,December,Mustard,261
+2018,December,Soy sauce,160
+2018,December,Barbecue sauce,164
+2019,January,Mayonnaise,258
+2019,January,Ketchup,140
+2019,January,Mustard,195
+2019,January,Soy sauce,140
+2019,January,Barbecue sauce,136
+2019,February,Mayonnaise,244
+2019,February,Ketchup,130
+2019,February,Mustard,179
+2019,February,Soy sauce,130
+2019,February,Barbecue sauce,138
+2019,March,Mayonnaise,312
+2019,March,Ketchup,156
+2019,March,Mustard,238
+2019,March,Soy sauce,149
+2019,March,Barbecue sauce,198
+2019,April,Mayonnaise,267
+2019,April,Ketchup,122
+2019,April,Mustard,195
+2019,April,Soy sauce,116
+2019,April,Barbecue sauce,141
+2019,May,Mayonnaise,271
+2019,May,Ketchup,123
+2019,May,Mustard,184
+2019,May,Soy sauce,112
+2019,May,Barbecue sauce,167
+2019,June,Mayonnaise,347
+2019,June,Ketchup,155
+2019,June,Mustard,243
+2019,June,Soy sauce,152
+2019,June,Barbecue sauce,225
+2019,July,Mayonnaise,281
+2019,July,Ketchup,136
+2019,July,Mustard,196
+2019,July,Soy sauce,125
+2019,July,Barbecue sauce,154
+2019,August,Mayonnaise,277
+2019,August,Ketchup,132
+2019,August,Mustard,185
+2019,August,Soy sauce,123
+2019,August,Barbecue sauce,152
+2019,September,Mayonnaise,291
+2019,September,Ketchup,158
+2019,September,Mustard,229
+2019,September,Soy sauce,139
+2019,September,Barbecue sauce,162
+2019,October,Mayonnaise,218
+2019,October,Ketchup,124
+2019,October,Mustard,181
+2019,October,Soy sauce,114
+2019,October,Barbecue sauce,112
+2019,November,Mayonnaise,247
+2019,November,Ketchup,112
+2019,November,Mustard,193
+2019,November,Soy sauce,119
+2019,November,Barbecue sauce,111
+2019,December,Mayonnaise,307
+2019,December,Ketchup,143
+2019,December,Mustard,252
+2019,December,Soy sauce,149
+2019,December,Barbecue sauce,159
+2020,January,Mayonnaise,276
+2020,January,Ketchup,129
+2020,January,Mustard,201
+2020,January,Soy sauce,163
+2020,January,Barbecue sauce,136
+2020,February,Mayonnaise,280
+2020,February,Ketchup,137
+2020,February,Mustard,194
+2020,February,Soy sauce,140
+2020,February,Barbecue sauce,131
+2020,March,Mayonnaise,324
+2020,March,Ketchup,154
+2020,March,Mustard,245
+2020,March,Soy sauce,177
+2020,March,Barbecue sauce,167
+2020,April,Mayonnaise,330
+2020,April,Ketchup,151
+2020,April,Mustard,257
+2020,April,Soy sauce,189
+2020,April,Barbecue sauce,188
+2020,May,Mayonnaise,391
+2020,May,Ketchup,192
+2020,May,Mustard,283
+2020,May,Soy sauce,205
+2020,May,Barbecue sauce,251
+2020,June,Mayonnaise,309
+2020,June,Ketchup,140
+2020,June,Mustard,226
+2020,June,Soy sauce,163
+2020,June,Barbecue sauce,214
+2020,July,Mayonnaise,314
+2020,July,Ketchup,138
+2020,July,Mustard,235
+2020,July,Soy sauce,152
+2020,July,Barbecue sauce,174
+2020,August,Mayonnaise,340
+2020,August,Ketchup,172
+2020,August,Mustard,258
+2020,August,Soy sauce,192
+2020,August,Barbecue sauce,187
+2020,September,Mayonnaise,251
+2020,September,Ketchup,137
+2020,September,Mustard,200
+2020,September,Soy sauce,141
+2020,September,Barbecue sauce,142
+2020,October,Mayonnaise,244
+2020,October,Ketchup,137
+2020,October,Mustard,201
+2020,October,Soy sauce,139
+2020,October,Barbecue sauce,125
+2020,November,Mayonnaise,308
+2020,November,Ketchup,145
+2020,November,Mustard,261
+2020,November,Soy sauce,167
+2020,November,Barbecue sauce,144
+2020,December,Mayonnaise,278
+2020,December,Ketchup,119
+2020,December,Mustard,238
+2020,December,Soy sauce,146
+2020,December,Barbecue sauce,149
+2021,January,Mayonnaise,350
+2021,January,Ketchup,163
+2021,January,Mustard,263
+2021,January,Soy sauce,208
+2021,January,Barbecue sauce,180
+2021,February,Mayonnaise,277
+2021,February,Ketchup,122
+2021,February,Mustard,204
+2021,February,Soy sauce,154
+2021,February,Barbecue sauce,143
+2021,March,Mayonnaise,265
+2021,March,Ketchup,116
+2021,March,Mustard,204
+2021,March,Soy sauce,144
+2021,March,Barbecue sauce,135
+2021,April,Mayonnaise,269
+2021,April,Ketchup,169
+2021,April,Mustard,198
+2021,April,Soy sauce,133
+2021,April,Barbecue sauce,136
+2021,May,Mayonnaise,366
+2021,May,Ketchup,153
+2021,May,Mustard,252
+2021,May,Soy sauce,169
+2021,May,Barbecue sauce,201
+2021,June,Mayonnaise,293
+2021,June,Ketchup,124
+2021,June,Mustard,213
+2021,June,Soy sauce,140
+2021,June,Barbecue sauce,167
+2021,July,Mayonnaise,290
+2021,July,Ketchup,127
+2021,July,Mustard,205
+2021,July,Soy sauce,141
+2021,July,Barbecue sauce,160
+2021,August,Mayonnaise,347
+2021,August,Ketchup,152
+2021,August,Mustard,231
+2021,August,Soy sauce,172
+2021,August,Barbecue sauce,160
+2021,September,Mayonnaise,269
+2021,September,Ketchup,122
+2021,September,Mustard,177
+2021,September,Soy sauce,134
+2021,September,Barbecue sauce,124
+2021,October,Mayonnaise,363
+2021,October,Ketchup,152
+2021,October,Mustard,226
+2021,October,Soy sauce,172
+2021,October,Barbecue sauce,145
+2021,November,Mayonnaise,293
+2021,November,Ketchup,123
+2021,November,Mustard,201
+2021,November,Soy sauce,136
+2021,November,Barbecue sauce,109
+2021,December,Mayonnaise,289
+2021,December,Ketchup,117
+2021,December,Mustard,216
+2021,December,Soy sauce,138
+2021,December,Barbecue sauce,127
+2022,January,Mayonnaise,415
+2022,January,Ketchup,172
+2022,January,Mustard,274
+2022,January,Soy sauce,236
+2022,January,Barbecue sauce,171
+2022,February,Mayonnaise,302
+2022,February,Ketchup,132
+2022,February,Mustard,216
+2022,February,Soy sauce,180
+2022,February,Barbecue sauce,144
+2022,March,Mayonnaise,292
+2022,March,Ketchup,133
+2022,March,Mustard,216
+2022,March,Soy sauce,174
+2022,March,Barbecue sauce,137
+2022,April,Mayonnaise,290
+2022,April,Ketchup,135
+2022,April,Mustard,227
+2022,April,Soy sauce,161
+2022,April,Barbecue sauce,140
+2022,May,Mayonnaise,401
+2022,May,Ketchup,167
+2022,May,Mustard,271
+2022,May,Soy sauce,198
+2022,May,Barbecue sauce,204
+2022,June,Mayonnaise,347
+2022,June,Ketchup,171
+2022,June,Mustard,231
+2022,June,Soy sauce,169
+2022,June,Barbecue sauce,181
+2022,July,Mayonnaise,436
+2022,July,Ketchup,196
+2022,July,Mustard,317
+2022,July,Soy sauce,217
+2022,July,Barbecue sauce,223
+2022,August,Mayonnaise,317
+2022,August,Ketchup,160
+2022,August,Mustard,223
+2022,August,Soy sauce,163
+2022,August,Barbecue sauce,155
+2022,September,Mayonnaise,285
+2022,September,Ketchup,143
+2022,September,Mustard,201
+2022,September,Soy sauce,155
+2022,September,Barbecue sauce,146
+2022,October,Mayonnaise,333
+2022,October,Ketchup,173
+2022,October,Mustard,248
+2022,October,Soy sauce,187
+2022,October,Barbecue sauce,157
+2022,November,Mayonnaise,280
+2022,November,Ketchup,128
+2022,November,Mustard,216
+2022,November,Soy sauce,151
+2022,November,Barbecue sauce,117
+2022,December,Mayonnaise,305
+2022,December,Ketchup,130
+2022,December,Mustard,229
+2022,December,Soy sauce,158
+2022,December,Barbecue sauce,143
